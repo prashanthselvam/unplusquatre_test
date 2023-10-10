@@ -231,8 +231,8 @@ const CreativityOverlay: React.FC<CreativityOverlayProps> = ({ hideOverlay }) =>
             <h1 className="text-xl font-bold">Creativity</h1>
             <p>
               Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour
-              calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la
-              mise en page est achevée.
+              calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu&apos;il est prêt ou
+              que la mise en page est achevée.
             </p>
           </div>
         </div>
